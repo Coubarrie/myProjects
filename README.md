@@ -1,8 +1,8 @@
 # myProjects
-                                                                            SMALL QUANTITIES CALCULATOR                 
-	                                                                       (Small scale concrete structures)     
-	                                                                                     BY                            
-	                                                                               George A Butler 
+                                                SMALL QUANTITIES CALCULATOR                 
+	                                     (Small scale concrete structures)     
+	                                                    BY                            
+	                                              George A Butler 
                                                                                 
 This product is intended for the small home owners and handymen engage in occasional repairs, maintenance and small construction projects. It originated from many observations of grossly inaccurate estimating of material requirements leading to incomplete construction, to the embarrassment of the home owner. It is also the product of observations of frequent work on small projects that result in repeatedly similar requirements.
 
